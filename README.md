@@ -1,19 +1,10 @@
-# Microcontroller_AirConditionSystem-DEsgin-
+# PIC air-conditioning controller lab
 
-Original C coursework / practice repository (2022).
+Microcontrollers lab: air-conditioning system controller in C (~13 files). PIC-family coursework, sibling of the cooker lab.
 
-This repository is **original work** on this account. It is kept for provenance.
+**Stack:** C, PIC
 
-It is **not** current research. Featured work:
+---
+Historical **BSc Computer Engineering** work (An-Najah National University, 2022). Kept for provenance — not current research.
 
-- [qg-lada-lab](https://github.com/ahmaddroobi99/qg-lada-lab) — QG Lagrangian data assimilation
-- [ai-perception-lab](https://github.com/ahmaddroobi99/ai-perception-lab) — computer vision lab
-- Profile: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
-
-## Language
-
-C
-
-## Year
-
-2022
+Current work: [github.com/ahmaddroobi99](https://github.com/ahmaddroobi99)
